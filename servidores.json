@@ -6,17 +6,17 @@
   },
   {
     "name": "AngolaRP Beta 2",
-    "address": "127.0.0.2:7777",
+    "address": "127.0.0.2:7767",
     "favorite": false
   },
    {
-    "name": "AngolaRP Beta 2",
-    "address": "127.0.0.2:7777",
+    "name": "AngolaRP Beta 3",
+    "address": "127.0.0.2:7747",
     "favorite": false
   },
   {
-    "name": "AngolaRP Beta 3",
-    "address": "127.0.0.2:7777",
+    "name": "AngolaRP Beta 4",
+    "address": "127.0.0.2:7727",
     "favorite": false
   }
 ]
