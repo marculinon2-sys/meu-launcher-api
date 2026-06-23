@@ -13,10 +13,5 @@
     "name": "AngolaRP Beta 3",
     "address": "127.0.0.2:7747",
     "favorite": false
-  },
-  {
-    "name": "AngolaRP Beta 4",
-    "address": "127.0.0.2:7727",
-    "favorite": false
-  }
+    }
 ]
