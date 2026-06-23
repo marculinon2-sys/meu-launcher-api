@@ -1,11 +1,11 @@
 [
   {
-    "name": "Reduto Beta 1",
+    "name": "AngolaRP Beta 1",
     "address": "127.0.0.1:7777",
     "favorite": false
   },
   {
-    "name": "Reduto Beta 2",
+    "name": "AngolaRP Beta 2",
     "address": "127.0.0.2:7777",
     "favorite": false
   }
