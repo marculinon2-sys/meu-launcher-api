@@ -1,17 +1,17 @@
 [
   {
-    "name": "agrp Beta 1",
+    "name": "AngolaRP Beta 1",
     "address": "15.204.51.206:15581",
     "favorite": false
   },
   {
     "name": "AngolaRP Beta 2",
-    "address": "127.0.0.2:7767",
+    "address": "15.204.51.206:15581",
     "favorite": false
   },
    {
     "name": "AngolaRP Beta 3",
-    "address": "127.0.0.2:7747",
+    "address": "15.204.51.206:15581",
     "favorite": false
     }
 ]
